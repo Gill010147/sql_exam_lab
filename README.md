@@ -10,7 +10,7 @@ mysql & oracle의 기초 sql문 관련한 문제입니다 ☺️
   
 |신기범|김동민|황병길|장송하|
 |:---:|:---:|:---:|:---:|
-|[shin-kibeom](https://github.com/shin-kibeom)|[ddd]()|[Gill010147](https://github.com/Gill010147)|[jangongha](https://github.com/songhajang)|
+|[shin-kibeom](https://github.com/shin-kibeom)|[kddmmm](https://github.com/kddmmm)|[Gill010147](https://github.com/Gill010147)|[jangongha](https://github.com/songhajang)|
 |![]()|![]()|![]()|![]()|
   
 </div>
