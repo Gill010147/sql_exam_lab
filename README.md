@@ -11,7 +11,7 @@ mysql & oracle의 기초 sql문 관련한 문제입니다 ☺️
 |신기범|김동민|황병길|장송하|
 |:---:|:---:|:---:|:---:|
 |[shin-kibeom](https://github.com/shin-kibeom)|[kddmmm](https://github.com/kddmmm)|[Gill010147](https://github.com/Gill010147)|[jangongha](https://github.com/songhajang)|
-|![]()|![]()|![]()|![]()|
+|<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/1363ce0d-5abe-4f0c-b3f5-bbbd48924ac9" />|<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/1363ce0d-5abe-4f0c-b3f5-bbbd48924ac9" />|<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/1363ce0d-5abe-4f0c-b3f5-bbbd48924ac9" />|<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/1363ce0d-5abe-4f0c-b3f5-bbbd48924ac9" />|
   
 </div>
 
