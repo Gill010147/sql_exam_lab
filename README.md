@@ -1,7 +1,7 @@
 # sql_exam_lab
 mysql & oracle의 기초 sql문 관련한 문제입니다 ☺️
 
-현재 oracle 예제 DB상태일때를 가정하여 제작되었습니다.  
+현재 oracle 예제 DB 상태일 때를 가정하여 제작되었습니다.  
 사원 테이블 : emp | 부서 테이블 : dept
 
 ---
@@ -19,14 +19,19 @@ mysql & oracle의 기초 sql문 관련한 문제입니다 ☺️
 <br>
 
 
-# 문제 소개
-정답은 oracle 기준으로 제공하기에 mysql문은 함꼐 머리로 생각해보는 시간을 가져보아요.
+# ✨학습 목표
+mysql 과 oracle의 문법 차이를 파악하기
+
+<br>
+<br>
+
+# 📃문제 소개
 
 ### 📌 1. 상사번호(7839)인 사원명(ename)을 입사날이 오래된 순으로 조회하기  
 상사번호: mgr , 사원명: ename, 입사날: hiredate 으로 가정한다.
 
 <details>
-<summary>✅정답 보기</summary>
+<summary>✅ orcale 정답 보기</summary>
   
 ```
 SELECT ename AS 사원명, hiredate AS 입사일
@@ -43,7 +48,7 @@ ORDER BY hiredate ASC;
 급여: sal, 커미션: comm, 사원명: ename 으로 가정한다.
 
 <details>
-<summary>✅정답 보기</summary>
+<summary>✅ orcale 정답 보기</summary>
   
 ```
 SELECT ename AS 사원명, sal12 AS 연봉
@@ -59,7 +64,7 @@ WHERE sal12 >= 30000;
 사원명: ename , 직업: job, 사원번호: empno, 커미션: comm 으로 가정한다.
 
 <details>
-<summary>✅정답 보기</summary>
+<summary>✅ orcale 정답 보기</summary>
   
 ```
 SELECT ename AS 사원명, empno AS 사원번호, comm AS 커미션
@@ -75,7 +80,7 @@ WHERE job = 'SALESMAN' AND comm > 0;
 사원명: ename , 직업: job, 입사날: hiredate, 부서번호: deptno 으로 가정한다.
 
 <details>
-<summary>✅정답 보기</summary>
+<summary>✅ orcale 정답 보기</summary>
   
 ```
 SELECT ename AS 사원명, job AS 직업, hiredate AS 입사일, deptno AS 부서번호
@@ -86,3 +91,11 @@ AND ename LIKE '%A%';
 ```
 
 </details>
+
+
+# ☄️트러블 슈팅
+
+# ✨느낌점
+
+
+
