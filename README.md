@@ -11,7 +11,7 @@ mysql & oracle의 기초 sql문 관련한 문제입니다 ☺️
 |신기범|김동민|황병길|장송하|
 |:---:|:---:|:---:|:---:|
 |[shin-kibeom](https://github.com/shin-kibeom)|[kddmmm](https://github.com/kddmmm)|[Gill010147](https://github.com/Gill010147)|[jangongha](https://github.com/songhajang)|
-|<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/0e74280b-a6cb-480e-8ddf-dee656d273ba" />|<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/1363ce0d-5abe-4f0c-b3f5-bbbd48924ac9" />|<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/99ef8771-e061-4b07-b587-95d76c3e97da" />|<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/158494bb-76c3-41b3-b457-213f6add7b3b" />|
+|<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/0e74280b-a6cb-480e-8ddf-dee656d273ba" />|<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/0a3636dc-b947-4d83-ae30-6dbb5708b189" />|<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/99ef8771-e061-4b07-b587-95d76c3e97da" />|<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/158494bb-76c3-41b3-b457-213f6add7b3b" />|
   
 </div>
 
